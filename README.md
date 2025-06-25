@@ -11,5 +11,5 @@
   </a>
 </p>
 
-|[![GitHub Statistic](https://github-readme-stats-eight-theta.vercel.app/api?username=hafidzdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Statistic](https://github-readme-stats-eight-theta.vercel.app/api?username=hafidzdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 ![github top lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafidzdev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
