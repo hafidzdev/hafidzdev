@@ -1,4 +1,4 @@
-### Hi coder!
+
 <p align="center">
   <a href="https://twitter.com/hafidzdev">
     <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40hafidzdev&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
