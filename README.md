@@ -1,10 +1,17 @@
 ### Hi coder!
-I’m <b>M.Hafid Masruri</b>, I’m a Technology Enthusiast. I currently live in Indonesia. I Love Design, Programming & Web Development. I’m interested in Web Dev.
+<p align="center">
+  <a href="https://twitter.com/hafidzdev">
+    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40hafidzdev&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+  </a>
+  <a href="https://www.linkedin.com/in/hafid-masruri17/">
+    <img src="https://img.shields.io/badge/-hafidz%20masruri-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="mailto:do.crazy192@gmail.com">
+    <img src="https://img.shields.io/badge/do.crazy192@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
 
 |Statistics?|Streak?|
 |:-------------------------:|:-------------------------:|
-|[![GitHub Statistic](https://github-readme-stats-eight-theta.vercel.app/api?username=hafidzdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/hafidzdev)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hafidzdev&theme=midnight-purple&hide_border=true)](https://github.com/hafidzdev)|
-
-|Activity?|Pride?|
-|:-------------------------:|:-------------------------:|
-|[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hafidzdev&bg_color=000000&color=fefefe&line=7f3ace&point=fefefe&area=true&hide_border=true)](https://github.com/hafidzdev)|<img width="432" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafidzdev&layout=compact&langs_count=8&theme=midnight-purple&hide=css,tsql,html,scss,less,makefile,shell,dockerfile&hide_border=true" /><br/>![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true&colorA=%23000000&colorB=%23ff0000&template=for-the-badge)|
+|[![GitHub Statistic](https://github-readme-stats-eight-theta.vercel.app/api?username=hafidzdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/hafidzdev)
+![github top lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafidzdev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
